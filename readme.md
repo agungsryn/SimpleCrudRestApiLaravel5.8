@@ -35,5 +35,5 @@ and open this URL in your browser
 http://localhost:8000/api/siswa
 
 ```
-##Feedback
-For more information : [Serampangan Info](serampanganinfo.blogspot.com)
+##For more information
+[Serampangan Info](serampanganinfo.blogspot.com)
