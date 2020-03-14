@@ -1,4 +1,4 @@
-Backend Laravel For Hydroponics Assistant IoT
+Simple CRUD REST API Laravel 5.8
 ============
 
 ##Prerequisites
