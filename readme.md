@@ -36,4 +36,4 @@ http://localhost:8000/api/siswa
 
 ```
 ##For more information
-[Serampangan Info](serampanganinfo.blogspot.com)
+[Serampangan Info](https://serampanganinfo.blogspot.com)
