@@ -36,4 +36,4 @@ http://localhost:8000/api/siswa
 
 ```
 ##For more information
-[Serampangan Info](https://serampanganinfo.blogspot.com)
+[Serampangan Info](https://serampanganinfo.blogspot.com/2020/03/simple-crud-rest-api-laravel-58.html)
