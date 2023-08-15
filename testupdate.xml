@@ -6,11 +6,11 @@
         <title>Version 2.0</title>
         <description>Release note first 1</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://www.google.com/" sparkle:version="2.0" />
+        <enclosure url="https://www.google.com/" sparkle:version="1.1.7" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <!-- The best chosen release -->
-    <item>
+<!--     <item>
         <title>Version 3.0</title>
         <enclosure url="https://www.gmail.com/" sparkle:version="3.0" sparkle:os="android" />
         <sparkle:deltas>
@@ -28,19 +28,19 @@
             type="application/octet-stream"
             sparkle:edSignature="..." />
         </sparkle:deltas>
-    </item>
+    </item> -->
     <!-- A release testing minimumSystemVersion -->
-    <item>
+<!--     <item>
         <title>Version 4.0</title>
         <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
         <enclosure url="https://www.twitter.com" sparkle:version="4.0" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
-    </item>
+    </item> -->
     <!-- A release testing maximumSystemVersion -->
-    <item>
+<!--     <item>
         <title>Version 5.0</title>
         <sparkle:version>5.0</sparkle:version>
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
-    </item>
+    </item> -->
   </channel>
 </rss>
