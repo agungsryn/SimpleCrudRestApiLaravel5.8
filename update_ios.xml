@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.1.8 ios</title>
-            <description>Minor updates and improvements.</description>
+            <title>Version 1.1.5 ios</title>
+            <description>Minor updates and improvements Ios.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/sg/app/squareart-exchange/id1632892160" sparkle:version="1.1.8" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/sg/app/squareart-exchange/id1632892160" sparkle:version="1.1.5" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
